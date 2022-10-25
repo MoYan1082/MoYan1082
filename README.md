@@ -13,3 +13,8 @@ About me:
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoYan1082&layout=compact)
+
+---
+The problems in Online Judge solved by me is below:
+
+<img width="50%" alt="Until 2022/10/25" src="./OjAnalyzer.jpg">
