@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, MoYan1082 here! :wave:
 
-<!--
-**MoYan1082/MoYan1082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="50%" align="right" alt="MoYan1082's github stats" src="https://github-readme-stats.vercel.app/api?username=MoYan1082&show_icons=true">
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :laughing:I'm a competitive programming enthusiast.
+- :star:I'm currently learning Computer Graphics.
+- :low_brightness:I'm very interested in Deep Learning and Game Making.
+- :package:Java for web applications, C++/Java/Python for competitive programming, Python for data science.
+- :zap:In fact, I love programming and am doing what I want to do.
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoYan1082&layout=compact)
