@@ -19,5 +19,3 @@ The problems in Online Judge solved by me is below:
 
 <img width="50%" alt="Until 2022/10/25" src="./OjAnalyzer.jpg">
 
-
-**I may or may not have learned knowledge because I have forgotten them.**:tired_face:
